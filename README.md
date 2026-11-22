@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=LuauGhidra&fontAlign=50&fontAlignY=35&fontSize=42&desc=Luau%20Decompiler%20%E2%80%A2%20Luraph%20and%20Prometheus%20Deobfuscator&descAlign=50&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=LuauGhidra&fontAlign=50&fontAlignY=35&fontSize=42&desc=Luau%20Decompiler%20%E2%80%A2%20Luraph%20and%20Prometheus%20Deobfuscator%20And%20more%20deobfuscators!&descAlign=50&descAlignY=60" />
 
 <a href="https://github.com/LuauGhidra/LuauGhidra">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=UI+Deobfuscation+for+Luraph;Prometheus+Deobfuscator+%E2%80%A2+Luau+Decompiler" alt="Typing SVG" />
