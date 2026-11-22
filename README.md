@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=RyNFuscator&fontAlign=50&fontAlignY=35&fontSize=42&desc=Lua%20Obfuscator%20%E2%80%A2%20AST%20Transformations%20%E2%80%A2%20Built%20in%20Rust&descAlign=50&descAlignY=60" />
 
 <a href="https://github.com/LuauGhirda/LuauGhirda">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=Ui+deobfuscation=for-luraph;Prometheus+Deobfusactor+%E2%80%A2+Decompiler+%E2%80%A2n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=Ui+deobfuscation+for-luraph;Prometheus+Deobfusactor+%E2%80%A2+Decompiler+%E2%80%A2" alt="Typing SVG" />
 </a>
 
 <br/>
