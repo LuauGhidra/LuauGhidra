@@ -20,6 +20,12 @@
 
 </div>
 
+Requirements:
+.NET
+DOTNET BUILD TOOLS
+NODE.JS
+PYTHON3
+
 ---
 
 ## Overview
