@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/DOWNLOAD-LATEST-0F766E?style=for-the-badge&logo=rust&logoColor=white" alt="Download Release" />
 </a>
 
-<a href="https://github.com/larpcorrupted/RyNFuscator/stargazers">
+<a href="https://github.com/LuauGhirda/LuauGhirda/stargazers">
   <img src="https://img.shields.io/github/stars/LuauGhirda/LuauGhirdar?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
 </a>
 <a href="https://discord.gg/A8F3vVYPtr">
