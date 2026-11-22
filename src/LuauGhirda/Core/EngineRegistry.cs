@@ -39,10 +39,6 @@ public static class EngineRegistry
 {
     public static readonly IReadOnlyList<EngineDef> All = new[]
     {
-new EngineDef("luraph152", "Luraph v15.2", "Luraph-v15.2-Deobfuscator",
-            EngineRuntime.Node, "Luraph",
-            new[] { "LPH_NO_VIRTUALIZE", "LPH_ENCSTR", "LPH_ENCFUNC", "LPH_CRASH", "LPH_JIT", "LPH_" },
-            "", false),
 
         new EngineDef("luraph151", "Luraph v15.1", "Luraph-v15.1-Deobfuscator",
             EngineRuntime.Node, "Luraph",
